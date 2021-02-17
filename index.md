@@ -2,7 +2,7 @@
 
 Ponechám si to tu na případnou budoucí orientaci:
 
-<iframe src="https://uploads.knightlab.com/storymapjs/5de6cbd90102d818a59af85121f960e7/husitske-valky/draft.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/5de6cbd90102d818a59af85121f960e7/husitske-valky/draft.html" frameborder="0" width="800" height="600"></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/kknaislova/dh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
