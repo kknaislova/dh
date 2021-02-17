@@ -1,6 +1,6 @@
 ## Čauky mňauky
 
-Ponechám si to tu na případn budoucí instrukce:
+Ponechám si to tu na případnou budoucí orientaci:
 
 You can use the [editor on GitHub](https://github.com/kknaislova/dh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
