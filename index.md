@@ -1,7 +1,7 @@
 # StuNoMe
 
 ## Timeline o japonském premiérovi Šinzó Abe
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kWdME-4u_BZJH9wyTGvIbnskUh8diFJu65KnnwUDpi0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kWdME-4u_BZJH9wyTGvIbnskUh8diFJu65KnnwUDpi0&font=Lustria-Lato&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Hledání termínu "respirátor" v ČR
 <a href="https://bit.ly/3knJMiX">link na fullview</a>
